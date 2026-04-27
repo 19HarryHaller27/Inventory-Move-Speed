@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "inventorymovespeed",
+  "name": "Inventory move speed",
+  "authors": ["adams"],
+  "description": "Backpack storage fullness maps to move speed: each 1% from half-empty to empty adds 0.5% speed (max +25%); each 1% from half to full costs 0.5% (max -25%). Server-only. Character sheet shows the stat.",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
